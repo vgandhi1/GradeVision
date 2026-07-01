@@ -1,3 +1,5 @@
+> ⚠️ **ARCHIVED (2026-06-30)** — consolidated into [vgandhi1/quality-systems-AI](https://github.com/vgandhi1/quality-systems-AI/tree/main/GradeVision) as the visual-QA sub-project. Development continues there.
+
 # GradeVision — Production-Grade Return Merchandise Inspection
 
 AI-powered intelligent inspection system for e-commerce returns, industrial materials, and damaged goods assessment.
